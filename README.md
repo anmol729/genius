@@ -15,7 +15,7 @@ The app is organized around four core workflows:
 
 ### 1. Dashboard
 
-![Dashboard](public/Screenshot%20(1167).png)
+![Dashboard](public/Screenshot%20(1172).png)
 
 The dashboard is the main landing page. It introduces the product and links into each workspace area from large, clickable cards.
 
@@ -27,7 +27,7 @@ The image generator lets you enter a prompt, pick a style, choose an aspect rati
 
 ### 3. Resume Analyzer
 
-![Resume Analyzer](public/Screenshot%20(1172).png)
+![Resume Analyzer](public/Screenshot%20(1167).png)
 
 The resume analyzer accepts a resume upload or pasted text, compares it against a target role, and returns an ATS score with a detailed breakdown and recommendations.
 
